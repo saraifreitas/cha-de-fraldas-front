@@ -15,7 +15,7 @@ const Footer = () => {
           <div className="flex items-center mb-2">
             <span className="text-gray-600 mr-2">Feito com</span>
             <Heart className="h-4 w-4 text-red-500 fill-red-500" />
-            <span className="text-gray-600 ml-2">para ADAH ou NOAH</span>
+            <span className="text-gray-600 ml-2">para NOAH ou ADAH</span>
           </div>
           <p className="text-sm text-gray-500">
             © 05/07/{new Date().getFullYear()} Chá de Fraldas - Rodrigo e Renata
