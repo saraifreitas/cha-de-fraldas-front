@@ -31,7 +31,7 @@ const Header = () => {
           bebê! Escolha um item da lista abaixo e reserve seu presente.
           Agradecemos sua participação neste momento especial!
         </motion.p>
-        <motion.p className="text-sm text-gray-500">
+        <motion.p className="text-sm font-bold text-gray-500">
           * Sugestão de marcas: Pampers e Huggies
         </motion.p>
       </div>
